@@ -15,7 +15,7 @@ Run it with:
 streamlit run webapp/app.py
 ```
 
-## Contributers
+## Contributors
 
 [Jasper Seehofer](https://github.com/JasperSeehofer)  
 [Hannes Laslo](https://github.com/HannesLa19)
